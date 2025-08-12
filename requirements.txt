@@ -1,0 +1,17 @@
+pandas
+matplotlib
+numpy
+keras
+tensorflow
+scikit-learn
+seaborn
+scipy
+xgboost
+lightgbm
+keras-tuner
+joblib
+shap
+streamlit
+plotly
+
+
